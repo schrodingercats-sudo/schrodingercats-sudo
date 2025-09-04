@@ -1,6 +1,6 @@
 <!-- Top Anime Nerd Banner -->
 <p align="center">
-  <img src="https://tenor.com/bebKU.gif" width="300px" alt="Cute nerdy anime girl coding"/>
+  <img src=<div class="tenor-gif-embed" data-postid="15735770" data-share-method="host" data-aspect-ratio="0.959375" data-width="100%"><a href="https://tenor.com/view/anime-anime-funny-anime-computer-kawaii-gif-15735770">Anime Anime Funny GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="300px" alt="Cute nerdy anime girl coding"/>
 </p>
 
 # 👋 Hi, I'm Pratham  
