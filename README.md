@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratham  
+🎓 Diploma in Computer Engineering | 🌱 2nd Year 3rd Sem  
+💻 Exploring **AI, bots, and anime-inspired projects**
 
-<!--
-**schrodingercats-sudo/schrodingercats-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Pinned Projects
+- **Portfolio** → [Live Demo](https://blackbitdev.netlify.app/) | [Repo](https://github.com/schrodingercats-sudo/portfolio)
+- **Stack Operations (C)** → Simple Data Structures
+- **HR Solution Hub** → TypeScript Backend project
+- **CPP Repo** → C++ learning path
+
+---
+
+## 📊 GitHub Stats
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=schrodingercats-sudo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingercats-sudo&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun
+> “The future belongs to those who code it.”  
+Watching anime | Building bots | Exploring AI
