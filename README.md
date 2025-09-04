@@ -1,6 +1,6 @@
 <!-- Top Anime Nerd Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/nerd-anime.png" width="300px" alt="Cute nerdy anime girl coding"/>
+  <img src="https://tenor.com/bebKU.gif" width="300px" alt="Cute nerdy anime girl coding"/>
 </p>
 
 # 👋 Hi, I'm Pratham  
