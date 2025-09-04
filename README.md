@@ -1,8 +1,8 @@
 <!-- Top Waifu Banner -->
 <p align="center">
-  <img src="https://i.waifu.pics/nrF1T4T.gif" width="200px" alt="Funny anime waifu"/>
-  <img src="https://i.waifu.pics/zPnOnro.gif" width="200px" alt="Nerdy anime waifu"/>
-  <img src="https://i.waifu.pics/0aH8RrX.gif" width="200px" alt="Cute anime waifu"/>
+  <img src="https://i.imgur.com/JT6aF6s.gif" width="200px" alt="Funny anime waifu"/>
+  <img src="https://i.imgur.com/kFUkJ0D.gif" width="200px" alt="Nerdy anime waifu"/>
+  <img src="https://i.imgur.com/bWDHk3N.gif" width="200px" alt="Cute anime waifu"/>
 </p>
 
 # 👋 Hi, I'm Pratham  
@@ -42,6 +42,6 @@ Watching anime | Building bots | Exploring AI
 
 ## 🎌 Anime Vibes
 <p align="center">
-  <img src="https://i.waifu.pics/YPaZgnp.gif" width="250px" alt="Anime waifu coding"/>
-  <img src="https://i.waifu.pics/V3Uv7tZ.gif" width="250px" alt="Cute nerdy anime girl"/>
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="250px" alt="Anime waifu coding"/>
+  <img src="https://i.imgur.com/6qJjM6X.gif" width="250px" alt="Cute nerdy anime girl"/>
 </p>
