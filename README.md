@@ -31,7 +31,6 @@
 
 ## 📌 Featured Projects
 - 🌐 [**Portfolio Website**](https://blackbitdev.netlify.app/) – My personal portfolio  
-- ⚡ [**HR Solution Hub**](https://github.com/schrodingercats-sudo/HRSolutionHub) – TypeScript backend project  
 - 🧮 [**Stack Operations in C**](https://github.com/schrodingercats-sudo/Data-structure-stack-operation) – Data structures practice  
 - 🚀 [**CPP Repo**](https://github.com/schrodingercats-sudo/CPP) – My C++ learning path  
 
