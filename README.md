@@ -1,13 +1,13 @@
 <!-- Profile README -->
 
-<!-- ───────────────────────────────────────────────────── -->
-<!-- Header Image (Replace with your uploaded image later) -->
-<!-- ───────────────────────────────────────────────────── -->
+<!-- ─────────────────────────────────────────────────── -->
+<!-- Header GIF (Upload your gif as assets/header.gif) -->
+<!-- ─────────────────────────────────────────────────── -->
 
 <div align="center">
-  <!-- Replace ./assets/header.png with your uploaded file -->
+  <!-- Replace ./assets/header.gif with your uploaded file -->
   <a href="https://www.pinterest.com/pin/39476934225274058/">
-    <img src="./assets/header.png" width="350px" alt="Pinterest Header"/>
+    <img src="./assets/header.gif" width="350px" alt="GIF Header"/>
   </a>
 </div>
 
@@ -15,8 +15,8 @@
 
 <div align="center">
   <h1>✨ Hey, I'm Pratham</h1>
-  <h3>Computer Engineering Student · Web Dev Learner</h3>
-  <p>Building clean interfaces, solving simple problems, learning every day.</p>
+  <h3>Computer Engineering · Web Developer in Progress</h3>
+  <p>Learning, building, breaking things, rebuilding, improving.</p>
 
   <p>
     <a href="https://blackbitdev.netlify.app">
@@ -33,11 +33,11 @@
 
 ## 🧭 About Me
 
-- 🎓 First-year Computer Engineering student  
-- 💻 Learning **HTML, CSS, JS, C, C++**  
-- 🚌 Building a college **Bus Tracking Web App**  
-- 🌑 Clean UI > Flashy UI  
-- 🚀 Goal: Become a full-stack developer  
+- 🎓 1st year Computer Engineering student  
+- 🔥 Into **clean UI**, logic building, and automation  
+- 🚍 Currently building: **College Bus Tracking Website**
+- 🧪 Learning how real-world apps are structured  
+- 🧩 Write → Break → Fix → Repeat  
 
 ---
 
@@ -71,33 +71,35 @@
 
 ---
 
-## 🚀 Projects in Progress
+## 🚀 Projects
 
-### 🚌 Bus Tracker App
-Real-time bus location for students & parents.  
-`HTML · CSS · JS · API (planned)`
+### 🚌 Bus Tracker (WIP)
+Live location + status for students and parents.
 
-### 🎨 UI Practice Repo
-Cloning real websites section by section to learn spacing, layout, and behavior.
+`HTML • CSS • JS • API Integration Soon`
 
-### 🧪 DSA Practice Lab (C/C++)
-Basic algorithms, pointers, memory handling, small utilities.
+### 🎨 UI Rebuilds
+Cloning real websites pixel-by-pixel for layout practice.
 
----
-
-## 🌱 Learning Focus
-
-- Strong fundamentals in **C/C++**
-- Rebuilding UI from screenshots
-- Moving toward **APIs, DBs, auth & backend logic**
+### 🧪 Small Experiments
+Pointers, memory, algorithms — one small problem at a time.
 
 ---
 
-## 🧠 Philosophy
+## 🌱 Currently Learning
 
-- Code should be readable without explanation  
-- Break things to understand them  
-- Commit history should tell a story, not chaos  
+- C / C++ fundamentals + DSA  
+- Responsive layouts  
+- Git workflow  
+- Backend basics  
+
+---
+
+## 🧠 Thought Process
+
+- Simple > Complex  
+- Readability > Clever syntax  
+- Design should make sense without explanation  
 
 ---
 
