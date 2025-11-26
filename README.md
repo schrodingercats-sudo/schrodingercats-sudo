@@ -1,63 +1,107 @@
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Pratham%20Solanki&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Bots%20%7C%20Cyberpunk%20Anime&descAlignY=75&descAlign=50" />
+<!-- Profile README -->
+
+<!-- ───────────────────────────────────────────────────── -->
+<!-- Header Image (Replace with your uploaded image later) -->
+<!-- ───────────────────────────────────────────────────── -->
+
+<div align="center">
+  <!-- Replace ./assets/header.png with your uploaded file -->
+  <a href="https://www.pinterest.com/pin/39476934225274058/">
+    <img src="./assets/header.png" width="350px" alt="Pinterest Header"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h1>✨ Hey, I'm Pratham</h1>
+  <h3>Computer Engineering Student · Web Dev Learner</h3>
+  <p>Building clean interfaces, solving simple problems, learning every day.</p>
+
+  <p>
+    <a href="https://blackbitdev.netlify.app">
+      <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="mailto:pratham.solanki30@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=schrodingercats-sudo&label=Profile%20Views&style=for-the-badge" />
+  </p>
+</div>
+
+---
+
+## 🧭 About Me
+
+- 🎓 First-year Computer Engineering student  
+- 💻 Learning **HTML, CSS, JS, C, C++**  
+- 🚌 Building a college **Bus Tracking Web App**  
+- 🌑 Clean UI > Flashy UI  
+- 🚀 Goal: Become a full-stack developer  
+
+---
+
+## 🛠 Tech Stack
+
+### Core
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github&perline=8" />
 </p>
 
-# 👋 Hi, I'm Pratham  
+### Learning Next
 
-🎓 Diploma in Computer Engineering • 2nd Year, 3rd Sem  
-💻 Exploring **AI, Bots, and Cyberpunk-Inspired Projects**  
-🌌 Aesthetic: *Blade Runner 2049 meets Anime Waifu Coding*  
-
----
-
-## 🌌 Cyberpunk Waifus
-<p align="center">
-  <!-- Upload your own waifu gifs/images into this repo's /assets folder -->
-  <img src="https://raw.githubusercontent.com/schrodingercats-sudo/schrodingercats-sudo/main/assets/cyber-waifu1.gif" width="220px" alt="Hacker Waifu"/>
-  <img src="https://raw.githubusercontent.com/schrodingercats-sudo/schrodingercats-sudo/main/assets/cyber-waifu2.gif" width="220px" alt="Blade Runner Anime Girl"/>
-  <img src="https://raw.githubusercontent.com/schrodingercats-sudo/schrodingercats-sudo/main/assets/cyber-waifu3.gif" width="220px" alt="Cute Neon Waifu"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&perline=6" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
-![C](https://img.shields.io/badge/C-ff00ff?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00ffff?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ff00ff)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schrodingercats-sudo&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingercats-sudo&layout=compact&hide_border=true&theme=transparent" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=schrodingercats-sudo&theme=transparent&hide_border=true" height="150" />
+</div>
 
 ---
 
-## 📌 Featured Projects
-- 🌐 [**Portfolio Website**](https://blackbitdev.netlify.app/) – My personal portfolio  
-- 🧮 [**Stack Operations in C**](https://github.com/schrodingercats-sudo/Data-structure-stack-operation) – Data structures practice  
-- 🚀 [**CPP Repo**](https://github.com/schrodingercats-sudo/CPP) – My C++ learning path  
+## 🚀 Projects in Progress
+
+### 🚌 Bus Tracker App
+Real-time bus location for students & parents.  
+`HTML · CSS · JS · API (planned)`
+
+### 🎨 UI Practice Repo
+Cloning real websites section by section to learn spacing, layout, and behavior.
+
+### 🧪 DSA Practice Lab (C/C++)
+Basic algorithms, pointers, memory handling, small utilities.
 
 ---
 
-## ⚡ Neon Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schrodingercats-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingercats-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00ff" height="180"/>
-</p>
+## 🌱 Learning Focus
+
+- Strong fundamentals in **C/C++**
+- Rebuilding UI from screenshots
+- Moving toward **APIs, DBs, auth & backend logic**
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=schrodingercats-sudo&theme=onestar&no-frame=true&row=1&margin-w=15" />
-</p>
+## 🧠 Philosophy
+
+- Code should be readable without explanation  
+- Break things to understand them  
+- Commit history should tell a story, not chaos  
 
 ---
 
-## ✨ Fun
-> *“The future belongs to those who code it.”*  
-Anime 🎌 | Cyberpunk 🌌 | Bots 🤖 | Exploring AI 💡  
+## 📫 Contact
 
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=footer" />
-</p>
+- Portfolio: **https://blackbitdev.netlify.app**  
+- Email: **pratham.solanki30@gmail.com**
